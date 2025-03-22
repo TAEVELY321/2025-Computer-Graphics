@@ -1,0 +1,18 @@
+﻿  CCircle.cpp
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CCircle.cpp(7,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CCircle.cpp(7,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CCircle.cpp(7,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CCircle.cpp(7,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CRectangle.cpp
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CRectangle.cpp(8,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CRectangle.cpp(8,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CRectangle.cpp(8,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CRectangle.cpp(8,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CShape.cpp
+  main.cpp
+  코드를 생성하고 있습니다.
+  0 of 13 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  GC_PA1.vcxproj -> C:\Users\king\source\repos\GC_PA1\Release\GC_PA1.exe

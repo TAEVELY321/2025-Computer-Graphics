@@ -1,0 +1,13 @@
+﻿  CCircle.cpp
+  CRectangle.cpp
+  CShape.cpp
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CShape.cpp(3,9): error C2084: 'CShape::CShape(int,int)' 함수에 이미 본문이 있습니다.
+  C:\Users\king\source\repos\GC_PA1\GC_PA1\CShape.h(9,2):
+  '{ctor}'의 이전 정의를 참조하십시오.
+  
+C:\Users\king\source\repos\GC_PA1\GC_PA1\CShape.cpp(8,10): error C2084: 'CShape::~CShape(void)' 함수에 이미 본문이 있습니다.
+  C:\Users\king\source\repos\GC_PA1\GC_PA1\CShape.h(13,11):
+  '{dtor}'의 이전 정의를 참조하십시오.
+  
+  main.cpp
+  코드를 생성하고 있습니다...
